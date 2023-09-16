@@ -1,0 +1,4 @@
+latihan-git
+- memahami git & github
+- dapat mengoperasikan git & github
+- latihan project & Upload ke github
