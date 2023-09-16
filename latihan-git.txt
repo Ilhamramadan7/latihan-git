@@ -2,3 +2,5 @@ latihan-git
 - memahami git & github
 - dapat mengoperasikan git & github
 - latihan project & Upload ke github
+- dapat mengaplikasikan kedalam project di dalam industri
+- melakukan meeting dengan membahasan tentang git & github
