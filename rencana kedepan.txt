@@ -2,3 +2,5 @@ rencana kedepan dalam pembelajaran ini adalah :
 1. dapat menguasai programming
 2. dapat mempresentasikan hasil project kedalam github
 3. dapat berkolaborasi dengan beberapa client menggunakan git & github
+4. membangun sistem pembelajaran yang kompeten
+5. melakukan evaluasi setiap bulan
